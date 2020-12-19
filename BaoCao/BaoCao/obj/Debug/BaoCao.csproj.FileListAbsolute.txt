@@ -1,0 +1,42 @@
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\bin\Debug\BaoCao.exe.config
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\bin\Debug\BaoCao.exe
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\bin\Debug\BaoCao.pdb
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.Form1.resources
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.Properties.Resources.resources
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.exe
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.pdb
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.Forms.Form_Dashboard.resources
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_Home.resources
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_Product.resources
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UCEmployee.resources
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_Customer.resources
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_CTHD.resources
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_Bill.resources
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_Mua.resources
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.F_Sanphammoi.resources
+C:\Users\Admin\Documents\ITTTTTTTTTTTTTTTTTTTTTT\Lap trinh truc quan\BaoCao\BaoCao\obj\Debug\BaoCao.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BaoCao\BaoCao\bin\Debug\BaoCao.exe.config
+C:\Users\Admin\Desktop\BaoCao\BaoCao\bin\Debug\BaoCao.exe
+C:\Users\Admin\Desktop\BaoCao\BaoCao\bin\Debug\BaoCao.pdb
+C:\Users\Admin\Desktop\BaoCao\BaoCao\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\BaoCao\BaoCao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\BaoCao\BaoCao\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\BaoCao\BaoCao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.Form1.resources
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.Forms.Form_Dashboard.resources
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.Properties.Resources.resources
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.F_Sanphammoi.resources
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UCEmployee.resources
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_Bill.resources
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_CTHD.resources
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_Customer.resources
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_Home.resources
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_Mua.resources
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.UserControls.UC_Product.resources
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.CopyComplete
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.exe
+C:\Users\Admin\Desktop\BaoCao\BaoCao\obj\Debug\BaoCao.pdb
